@@ -1,0 +1,2 @@
+# Machine-Learning-Practical-Lab-Model-Building-Evaluation
+Reflection (edit as needed): - Model performance: compare eval table above to see which model did best. - Overfitting: check difference between train and test metrics (not fully shown here — you can compute train metrics similarly). - Data size: small datasets (like Iris) can cause variance; California dataset size affects model stability. 
